@@ -9,6 +9,4 @@ fetch(API_URL)
         if (img != null) {
             img.src = data.message
         }
-        //data.message
-        console.log(data.message)
     })
